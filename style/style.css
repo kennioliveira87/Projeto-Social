@@ -30,17 +30,17 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
+    height: 626px;
     width: 311px;
     background: url("../Imagens/imagens/frame-iphone400.png") no-repeat center;
 }
 
 iframe#tela {
     position: relative;
-    top: 155px;
-    left: 66px;
-    width: 182px;
-    height: 320px;
+    top: 12.8%;
+    left: 7.2%;
+    width: 86.2%;
+    height: 75%;
 }
 
 section#rede-sociais {
