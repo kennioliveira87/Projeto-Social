@@ -32,7 +32,7 @@ section#telefone {
 
     height: 626px;
     width: 311px;
-    background: url("../Imagens/imagens/frame-iphone400.png") no-repeat center;
+    background: url("../Imagens/imagens/frame-iphone400.png") center;
 }
 
 iframe#tela {
