@@ -30,9 +30,9 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 626px;
-    width: 311px;
-    background: url("../Imagens/imagens/frame-iphone400.png") center;
+    height: 626%;
+    width: 311%;
+    background: url("../Imagens/imagens/frame-iphone400.png") no-repeat center;
 }
 
 iframe#tela {
