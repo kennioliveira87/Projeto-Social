@@ -7,7 +7,7 @@
 }
 
 html, body {
-    height: 102vh;
+    height: 100%;
     width: 100vw;
     background-color: black;
 }
